@@ -2,8 +2,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 1px solid red;
+   
+
 }
 .container{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+
+    border: 1px solid rgb(0, 8, 255);
+    
 }
